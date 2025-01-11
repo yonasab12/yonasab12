@@ -1,8 +1,7 @@
 
 <p>
-  <img align="center" src="https://vondy.com/deliverable/1f7e2bd1-9ccd-452c-9cf0-a7cec4245a98" alt="GIF Animation" ,hight="300",width="500"/>
+  <img align="center" src="https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/5Fx7RHQA0q5dWTevXLZvmbPvZXrpEg28YWoH.gif" alt="GIF Animation" ,hight="300",width="500"/>
 </p>
-<h1 align="center">
   
 "Hi, I'm Yonas Abebe" 
 </h1>
