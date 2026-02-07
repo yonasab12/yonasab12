@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Yonas Abebe 👋</h1>
-<h3 align="center">A React Native (Expo) Developer and Future Data Scientist from Ethiopia</h3>
+<h3 align="center">Creative Developer & AI Engineer from Ethiopia</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yonasab12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -67,9 +67,9 @@
 - **Mobile Apps:** Built with **Expo React Native + Firebase**  
 - **AI & ML:** LLM projects using **LangChain & LangGraph**, plus **PyTorch/TensorFlow** experiments  
 - **Future Goals:**  
-  1. Full-stack **React Native apps** with **AI chat integration**  
-  2. Explore **LangChain agents** and **graph-based reasoning**  
-  3. Deploy **AI pipelines** connecting mobile apps to **LLM backends**  
+  
+  1. Explore **LangChain agents** and **graph-based reasoning**  
+  2. Deploy **AI pipelines** connecting mobile apps to **LLM backends**  
 
 ---
 
